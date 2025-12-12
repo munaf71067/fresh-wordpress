@@ -28,10 +28,10 @@ define( 'DB_NAME', 'elenzaglow' );
 define( 'DB_USER', 'root' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'sMy9KpsvOXF4ipAKWeCUCWFlczvwFLwj' );
+define( 'DB_PASSWORD', 'vrmJkgfoGiLQ8ztNi4BS0xZ23rLTFV6B' );
 
 /** Database hostname */
-define( 'DB_HOST', 'wlv2kr.stackhero-network.com' );
+define( 'DB_HOST', '49btz4.stackhero-network.com' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
